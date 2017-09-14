@@ -1,0 +1,11 @@
+Q.1 Smallest particle of an element which may or may not have independent existence$a molecule$an atom$an ion$an electron$an atom$
+Q.2      Swedish chemist J. Berzelius determined the $atomic no$atomic volume$atomic mass$atomic density$atomic mass$    
+Q.3      The number of atoms present in a molecule determine its$molecularity$basicity$acidity$atomicity$atomicity$
+Q.4      When an electron is added to a unipositive ion we get$anion$cation$neutral atom$ molecule$neutral atom$
+Q.5      CO+ is an example of:$free radical$cationic molecular ion$an ionic molecular ion$stable molecule$cationic molecular ion$
+Q.6      Relative atomic mass is the mass of an atom of an element as compared to the mass of$ oxygen$hydrogen$nitrogen$carbon$carbon$
+Q.7      Isotopes are the sister atoms of the same element with similar chemical properties and different$atomic number$atomic mass$atomic volume$ atomic structure$atomic mass$
+Q.8      The instrument which is used to measure the exact masses of different isotopes of an element called$I.R. Spectrophotometer$U.V. Spectrophotometer$Mass Spectrometer$Colourimeter$Mass Spectrometer$ 
+Q.9      Mass spectrometer separates different positive isotopic ions onthe basis of their$mass value$m/e  value$ e/m  value$change value$m/e  value$
+Q.10    Simplest formula that gives us information about the simple ratio of atoms in a compound is called$structural formula$ molecular formula$empirical formula$molar ratio$empirical formula$  
+

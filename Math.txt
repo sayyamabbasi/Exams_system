@@ -1,0 +1,10 @@
+Q.1 If a = b and b = c, then a = c. This property is called ?$Reflexive$Transitive$Trichotomy$Symmetric$Transitive$
+Q.2 If a > b and b > a, then ?$a is equal to b$a is not equal to b$cannot be evaluated$impossible$a is equal to b$
+Q.3 PI denotes the ratio of the __________ to the __________ .$area of a circle, circumference of the circle$area of a circle, length of its diameter$circumference of a circle, length of its radius$circumference of a circle, length of its diameter$circumference of a circle, length of its diameter$
+Q.4 The value of PI is a/an __________ .$rational number$irrational number$integer$complex number$irrational number$
+Q.5 If x2 + 1 = 0, then x = ?$1$i$+1,-$+i,-i$+i,-i$
+Q.6 The product of complex numbers (4,3) and (5,-6) is ?$(18,3)$(18,-3)$(38,9)$(38,-9)$(38,-9)$
+Q.7 (2,6)  (4,2) = ?$(1,1)$(1,2)$(2,1)$(2,2)$(1,1)$
+Q.8 (-i)-19 = ?$1$-1$i$-i$-i$
+Q.9 The multiplicative identity of a complex number is ?$(0,0)$(1,0)$(0,1)$(1,1)$(1,0)$
+Q.10 Sqrt(-9)*Sqrt(-9)$9$-9$9i$-9i$-9$
